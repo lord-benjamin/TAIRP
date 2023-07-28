@@ -5,8 +5,6 @@ const emptyTaskMsg = document.querySelector("#empty-task-msg");
 
 const taskList = localStorage.getItem("tasks") ? JSON.parse(localStorage.getItem("tasks")) : [];
 
-console.log(taskList);
-
 addBtn.addEventListener("click",()=>{
     if(inputBox.value == ""){
         inputBox.classList.add("animate-shake");
