@@ -24,7 +24,7 @@ addBtn.addEventListener("click",()=>{
 function displayTasks(){
     let task = "";
     for(let i=0; i<taskList.length; ++i){
-        task += `<div class="w-full bg-black bg-opacity-70 rounded-md overflow-hidden">
+        task += `<div class="w-full bg-black bg-opacity-70 rounded-lg overflow-hidden">
                         <div class="flex flex-col md:flex-row">
                             <textarea disabled rows="2" class="bg-white w-full resize-none p-4 outline-none font-prompt text-lg task-box">${taskList[i]}</textarea>
                             <div class="flex flex-row md:flex-col text-white font-medium edit-container">
