@@ -47,7 +47,7 @@ async function getWeather(query){
             searchBox.classList.remove("border-2");
             searchBox.classList.remove("border-red-700");
             searchBox.classList.remove("h-full");
-        },5000);
+        },8000);
     }
     else{
         var data = await res.json();
