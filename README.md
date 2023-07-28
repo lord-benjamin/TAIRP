@@ -21,7 +21,7 @@ The performed tasks are listed below:
 <b>Screenshot:</b>![taskmaster](https://github.com/lord-benjamin/TAIRP/assets/98750226/dcadbf51-e0c4-46ce-8534-51c1cd8cf42d)
 
 
-## Level 2 - Task 2 - Weather Application
+## Level 2 - Task 2 - A Weather Application
 <b>Description:</b> Create a weather application that retrieves and displays weather information for a specific location using a weather API. Users can enter a city name, and the app will fetch and display the current weather conditions. Use HTML for user interface, CSS for styling, and JavaScript to fetch data from the API and dynamically update the weather information.</br>
 <b><a href="https://app.uizard.io/templates/Ewg08vdL3KCPwevXrX3B/fullscreen" target="_blank">Demo</a></b>
 
